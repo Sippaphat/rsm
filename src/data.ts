@@ -16,22 +16,17 @@ export const introData = {
 export const technologies = [
 	{
 		section: 'Languages:',
-		details: 'Ruby, JavaScript, Node.js (strong). TypeScript, SQL (proficient).'
+		details: 'Python, C, SQL.'
 	},
 	{
 		section: 'Frameworks:',
-		details: 'Ruby on Rails, ReactJS, NextJS, NestJS, SvelteJS, TailwindCSS, Bootstrap'
+		details: 'Tensorflow, pandas, numpy, scikit-learn, seaborn, matplotlib, AutoGluon, OpenCV'
 	},
 	{
 		section: 'Tools:',
 		details:
-			'Git, Terraform, Docker, Kubernetes, Helm, ArgoCD, FluxCD, Robot Framework, Selenium, Zsh, GitHub Codespaces'
+			'VSCode, Google Colab, Jupyter Notebook, Git'
 	},
-	{
-		section: 'Other:',
-		details:
-			'AWS, GCP, Firebase, Vercel, DigitalOcean, Cloud66, Github Actions, CircleCI, CloudFlare'
-	}
 ];
 
 export const educations = [
